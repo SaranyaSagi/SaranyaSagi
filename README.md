@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaranyaSagi
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning web development
+- 🌱 Full-stack Web Developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
