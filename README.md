@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development.
 - 🌱 Full-stack Web Developer
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
 
 <!---
 SaranyaSagi/SaranyaSagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
